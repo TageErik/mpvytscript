@@ -5,7 +5,7 @@ Only supports linux and maybe mac
 # DEPENDENCIES
 xdotool, xsel and vimium
 xdotool and xsel can be downloaded through your package manager and vimium is a cool browser addon
-two of these dependecies have x in the name so I assume wayland nerds can't use this
+two of these dependecies have x in the name so I assume wayland nerds can't use this. tfw 3 dependencies for 5 lines of code.
 
 # HOW TO USE
 Use a hotkey deamon to run the script while on a youtube video link. I use sxhkd because it's good.
